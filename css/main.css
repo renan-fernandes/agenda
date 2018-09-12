@@ -1,0 +1,32 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"); 
+
+.horario{
+	margin-bottom:5px;
+	height:30px;
+}
+
+#divCabecalho{	
+	text-align:center;
+}
+
+.form-row{	
+	background-color:#e1e3ef;
+	border-radius: 10px;
+}
+
+.form-control{
+	margin-bottom:10px;	 
+}
+
+#titulo{
+	font-size:20px;
+}
+
+.btn-warning:focus {
+    box-shadow: 0 0 0 0.2rem #383d41;
+}
+
+.btn-light:focus {
+    box-shadow: 0 0 0 0.2rem #383d41;
+}
+
